@@ -67,3 +67,11 @@ public class StratergyUsingLambda{
         System.out.println("The sum off total odd numbers using inbuilt method is :"+getTotatlNumbers(num, StratergyUsingLambda::isOdd));
     }
 }
+/*
+
+The sum of total numbers is :394
+The sum of total even numbers is :180
+The sum off total odd numbers is :214
+The sum off total odd numbers using inbuilt method is :214
+
+*/
